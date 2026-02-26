@@ -5,7 +5,7 @@ O **Retro House** é um site de notícias, guias e análises focado na cena de R
 ## Demonstração
 ### Desktop
 Hero Section e Identidade
-<img width="1896" height="808" alt="tela01" src="https://github.com/user-attachments/assets/ead5f7ad-5269-4079-8b11-0b95aecf6791" />
+<img width="1896" height="778" alt="tela01" src="https://github.com/user-attachments/assets/6c711213-f2f6-4521-98c7-8e65b56bd25c" />
 <p align="center">
 Seção principal do portal Retro House, apresentando a proposta de valor do site. Destaque para o uso de tipografia personalizada via @font-face e um layout limpo utilizando Flexbox para o alinhamento do banner e texto introdutório.</p>
 
